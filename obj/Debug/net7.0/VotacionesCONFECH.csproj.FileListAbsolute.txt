@@ -1,0 +1,14 @@
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\bin\Debug\net7.0\VotacionesCONFECH.exe
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\bin\Debug\net7.0\VotacionesCONFECH.deps.json
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\bin\Debug\net7.0\VotacionesCONFECH.runtimeconfig.json
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\bin\Debug\net7.0\VotacionesCONFECH.dll
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\bin\Debug\net7.0\VotacionesCONFECH.pdb
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\VotacionesCONFECH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\VotacionesCONFECH.AssemblyInfoInputs.cache
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\VotacionesCONFECH.AssemblyInfo.cs
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\VotacionesCONFECH.csproj.CoreCompileInputs.cache
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\VotacionesCONFECH.dll
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\refint\VotacionesCONFECH.dll
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\VotacionesCONFECH.pdb
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\VotacionesCONFECH.genruntimeconfig.cache
+C:\Users\AdminAp-066\Documents\VotacionesCONFECH\obj\Debug\net7.0\ref\VotacionesCONFECH.dll
